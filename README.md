@@ -17,6 +17,17 @@ Please feel free to fork and modify this wrapper for your own use. If your fork 
 ## To-Do
 * Improve documentaion on each function and how to use it
 
+## My Other Crypto API Wrappers
+* [CryptoCompare-PHP](https://github.com/imanseau/CryptoCompare-PHP) - A PHP API wrapper for CryptoCompare's API
+* CoinMarketCap - Comming Soon
+* WhaleClub - Comming Soon
+* GDAX - Comming Soon
+* FOREX - Comming Soon
+* 1Broker - Comming Soon
+* Oanda - Comming Soon
+* Bitfinex - Comming Soon
+* Poloniex - Comming Soon
+
 ## Donations
 Donations for my work are always welcome and greatly appreciated, feel free to send your thanks to any of the addresses below.
 
