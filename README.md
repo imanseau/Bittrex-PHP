@@ -8,7 +8,7 @@ Dowload/Copy Bittrex.php into your application where you store your include file
 Below is an example of the code to call a function
 ```
 $obj = new Bittrex();
-$results = $obj->coinlist();
+$results = $obj->getmarkets();
 ```
 
 ## Forking
